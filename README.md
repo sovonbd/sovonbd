@@ -4,7 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1000&center=true&multiline=true&random=false&width=1000&height=120&lines=Hi+!!!+;I+am+Sovon.+;Welcome+to+my+Github." alt="Typing SVG" /></a>
 
-<br />
 
 ## Overview
 
