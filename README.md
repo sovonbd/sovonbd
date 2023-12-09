@@ -8,7 +8,6 @@
 
 ## Overview
 
-
 - 🔭 I’m currently working on my personal project.
 - 🌱 I’m currently learning Next.js.
 - 👨‍💻 Next on my learning list: TypeScript, .NET, redux and so on.
@@ -18,7 +17,6 @@
 
 <br />
 
-
 <p align="center" >
   <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,react,nextjs,firebase" width="450"/>
@@ -26,7 +24,7 @@
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel	,express,nodejs,mongodb" width="320"/>
+    <img src="https://skillicons.dev/icons?i=git,github,express,nodejs,mongodb" width="250"/>
   </a>
 </p>
 <p align="center">
