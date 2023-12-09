@@ -1,7 +1,7 @@
 <img src="./images/cover.png" />
 
-<div style="text-align: center;">
-  <a href="https://git.io/typing-svg" style="display: inline-block;">
+<div style="text-align: center;" width="100%">
+  <a href="https://git.io/typing-svg" style="text-align: center;">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&vCenter=true&multiline=true&random=false&width=500&height=100&lines=Hi+!!!+;I+am+Sovon.+;Welcome+to+my+Github." alt="Typing SVG" />
   </a>
 </div>
