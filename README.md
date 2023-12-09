@@ -2,25 +2,36 @@
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=1000&center=true&multiline=true&random=false&width=1000&height=120&lines=Hi+!!!+;I+am+Sovon.+;Welcome+to+my+Github." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=1000&center=true&multiline=true&random=false&width=1000&height=120&lines=Hi+!!!+;I+am+Sovon.+;Welcome+to+my+Github." alt="Typing SVG" /></a>
 
 <br />
 
-- 🔭 I’m currently working on my personal portfolio website.
+## Overview
+
+
+- 🔭 I’m currently working on my personal project.
 - 🌱 I’m currently learning Next.js.
 - 👨‍💻 Next on my learning list: TypeScript, .NET, redux and so on.
 - 💡 Fun fact: When I don't have any problem, I create one just to dive into problem-solving!
 
-## My Tools
+## Tech Stack
+
+<br />
+
 
 <p align="center" >
   <a href="">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,react,firebase" width="400"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,react,nextjs,firebase" width="450"/>
   </a>
 </p>
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=git,github,express,nodejs,mongodb" width="250"/>
+    <img src="https://skillicons.dev/icons?i=git,github,vercel	,express,nodejs,mongodb" width="320"/>
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://skillicons.dev/icons?i=figma,vite,vercel" width="150"/>
   </a>
 </p>
 
