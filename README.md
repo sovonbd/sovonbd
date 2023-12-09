@@ -1,8 +1,12 @@
 <img src="./images/cover.png" />
 
+<br />
+
   <a href="https://git.io/typing-svg" style="text-align: center;" width="100%">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Hi+!!!+;I+am+Sovon.+;Welcome+to+my+Github." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&center=true&vCenter=true&multiline=true&random=false&width=1000&height=100&lines=Hi+!!!+;I+am+Sovon.+;Welcome+to+my+Github." alt="Typing SVG" width="1200" />
   </a>
+
+<br />
 
 - 🔭 I’m currently working on my personal portfolio website.
 - 🌱 I’m currently learning Next.js.
