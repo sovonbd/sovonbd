@@ -8,7 +8,7 @@
 ## Overview
 
 - 🔭 I’m currently working on my personal project.
-- 🌱 Serverless architecture with AWS Lambda and API Gateway.
+- 🌱 Next Plan: Serverless architecture with AWS Lambda and API Gateway.
 - 💡 Fun fact: When I don't have any problem, I create one just to dive into problem-solving!
 
 ## Tech Stack
