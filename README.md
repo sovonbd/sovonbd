@@ -46,5 +46,5 @@
 ## Current Stats
 
 <p align="center">
-  <img width="100%" src="[https://streak-stats.demolab.com/?user=sovonbd&theme=transparent&hide_border=true&card_width=700&ring=EBE6E4&currStreakLabel=EBE6E4&excludeDaysLabel=EBE6E4&sideLabels=EBE6E4&dates=EBE6E488&sideNums=36BCF7&fire=36BCF7&currStreakNum=36BCF7" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=sovonbd&theme=transparent&hide_border=true&card_width=700&ring=EBE6E4&currStreakLabel=EBE6E4&excludeDaysLabel=EBE6E4&sideLabels=EBE6E4&dates=EBE6E488&sideNums=36BCF7&fire=36BCF7&currStreakNum=36BCF7" />
 </p>
